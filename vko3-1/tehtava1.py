@@ -3,7 +3,7 @@ from google.cloud import storage
 
 storage_client = storage.Client()
 
-BUCKET_NAME = "checkpoint3-bucketti3"
+BUCKET_NAME = "checkpoint3-bucketti"
 FILE_NAME = "checkpoint.txt"
 
 
